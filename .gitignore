@@ -1,0 +1,7 @@
+# User settings
+xcuserdata/
+
+/*.gcno
+
+# Generated bitmaps
+*.bmp
